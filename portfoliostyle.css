@@ -1,0 +1,44 @@
+body{
+    background-color: #E4DFDA;
+}
+
+.card {
+    border: 1px solid rgb(0, 0, 0);
+    width: 200px;
+    background-color: #48A9A6;
+    margin: 0 auto;
+    text-align: center;
+    padding: 5px;
+}
+
+body {
+    margin: 0;
+    padding: 10px
+}
+
+.portfolio-bg {
+    background-color: #4357AD;
+    width: 600 px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px
+}
+
+#boxes {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.outer {
+    padding: 5px;
+    width: 600px;
+    
+}
+
+.centered {
+    width: 300px
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+}
